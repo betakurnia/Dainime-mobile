@@ -1,3 +1,1 @@
-# Dainime-Mobile
-Dainime mobile apps
-Created using React Native
+Dainime mobile app created using React Native
